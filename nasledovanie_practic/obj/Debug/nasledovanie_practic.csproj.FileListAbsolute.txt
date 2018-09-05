@@ -1,0 +1,14 @@
+C:\Users\темирбулата\source\repos\nasledovanie_practic\nasledovanie_practic\bin\Debug\nasledovanie_practic.exe.config
+C:\Users\темирбулата\source\repos\nasledovanie_practic\nasledovanie_practic\bin\Debug\nasledovanie_practic.exe
+C:\Users\темирбулата\source\repos\nasledovanie_practic\nasledovanie_practic\bin\Debug\nasledovanie_practic.pdb
+C:\Users\темирбулата\source\repos\nasledovanie_practic\nasledovanie_practic\obj\Debug\nasledovanie_practic.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\nasledovanie_practic\nasledovanie_practic\obj\Debug\nasledovanie_practic.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\nasledovanie_practic\nasledovanie_practic\obj\Debug\nasledovanie_practic.exe
+C:\Users\темирбулата\source\repos\nasledovanie_practic\nasledovanie_practic\obj\Debug\nasledovanie_practic.pdb
+C:\Users\anuar\source\repos\nasleovanie_practic_dz-master\nasledovanie_practic\bin\Debug\nasledovanie_practic.exe.config
+C:\Users\anuar\source\repos\nasleovanie_practic_dz-master\nasledovanie_practic\bin\Debug\nasledovanie_practic.exe
+C:\Users\anuar\source\repos\nasleovanie_practic_dz-master\nasledovanie_practic\bin\Debug\nasledovanie_practic.pdb
+C:\Users\anuar\source\repos\nasleovanie_practic_dz-master\nasledovanie_practic\obj\Debug\nasledovanie_practic.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\nasleovanie_practic_dz-master\nasledovanie_practic\obj\Debug\nasledovanie_practic.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\nasleovanie_practic_dz-master\nasledovanie_practic\obj\Debug\nasledovanie_practic.exe
+C:\Users\anuar\source\repos\nasleovanie_practic_dz-master\nasledovanie_practic\obj\Debug\nasledovanie_practic.pdb
